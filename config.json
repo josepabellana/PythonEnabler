@@ -1,0 +1,13 @@
+{
+    "urls": [
+      "https://www.elconfidencial.com/espana/2024-02-28/jose-luis-abalos-koldo-garcia-psoe-directo_3838972/"
+    ],
+    "pdfs": [
+      "/path/to/file1.pdf",
+      "/path/to/file2.pdf"
+    ],
+    "docs": [
+      "/path/to/file1.docx",
+      "/path/to/file2.docx"
+    ]
+  }
